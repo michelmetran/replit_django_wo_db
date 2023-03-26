@@ -1,0 +1,1 @@
+# replit_django_wo_db
