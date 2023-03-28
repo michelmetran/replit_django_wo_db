@@ -1,11 +1,7 @@
 # Python on Replit
 
 
-
-
-https://ask.replit.com/t/error-prybar-python310-not-found-in-path/9301
-
-
+https://replitdjangowodb.michelmetran.repl.co
 
 
 
