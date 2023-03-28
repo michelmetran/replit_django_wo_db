@@ -1,4 +1,32 @@
-# Python on Replit
+# Repl.it Django
+
+<br>
+> https://github.com/michelmetran/replit_django
+
+Learn how to deploy Django on Replit
+
+Em 26.03.2023 consegui fazer deploy de uma aplicação simples.
+
+https://djangotest.michelmetran.repl.co/
+
+
+
+Uma vez que o repositório deu certo...
+é possível
+fazer o download dele e fazer o deploy de aplicações do github
+
+
+https://blog.replit.com/deploying-django
+
+
+```
+conda activate pablocarreira-lastest
+python manage.py migrate
+
+C:/Users/michel/miniconda3/envs/pablocarreira-lastest/python.exe d:/Codes/py_interfaces/codes/host_replit/replit_django/manage.py runserver
+python manage.py
+```
+
 
 
 https://replitdjangowodb.michelmetran.repl.co
