@@ -1,5 +1,20 @@
 # Python on Replit
 
+
+
+
+https://ask.replit.com/t/error-prybar-python310-not-found-in-path/9301
+
+
+
+
+
+
+<br>
+
+-----
+
+
 This is a template to get you started with Python on Replit. It's ready to go so you can just hit run and start coding!
 
 ## Running the repl
